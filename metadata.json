@@ -1,0 +1,6 @@
+{
+  "name": "ArtPersona Studio",
+  "description": "Local Ollama art prompt generator, dynamic VRAM & token budget optimizer, and script manager for creative prompt engineering on NVIDIA GPUs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
